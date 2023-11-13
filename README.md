@@ -1,5 +1,5 @@
 👋 Hi there! I'm **Software Engineer** using Java, C, and C#.   
-I'm interested in System Programming, Computer Graphics, and C++.
+I'm interested in System Programming, Computer Graphics, Algorithm, and C++.
 
 ### ⚡ Skills
 <div>
