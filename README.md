@@ -2,5 +2,5 @@
 I'm interested in System Programming, Computer Graphics, and C++.
 
 ### ⚡ Skills
-![Static Badge]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 
